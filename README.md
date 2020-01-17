@@ -1,2 +1,7 @@
 # passing-command-line-arguments-in-python
-illustrating how to pass arguments using command line
+
+# Make sure to import:
+
+ # 1> argparse
+ # 2> os
+ # 3> ChainMap from collections
