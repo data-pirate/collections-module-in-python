@@ -1,9 +1,9 @@
-# passing-command-line-arguments-in-python
+# Exploring the collection module in python.
 
-# Make sure to import:
+# Topics covered :
 
-  1> argparse
-  
-  2> os 
-  
-  3> ChainMap from collections 
+    1> ChainMap
+    
+    2> defaultdict
+    
+    3> Counter
